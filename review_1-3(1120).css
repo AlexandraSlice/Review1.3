@@ -1,0 +1,57 @@
+.body {
+width: 1120px;
+font-family: 'TT Lakes';
+}
+
+.header {
+display: flex;
+align-items: center;
+}
+
+
+
+.header__section2 {
+margin-top: 25px;
+margin-left: 650px;
+}
+	
+.menu__uslugi {
+width: 1120px;
+display: flex;
+gap: 10px;
+padding-left: 16px;
+}
+
+.content__section2-photo {
+width: 360px;
+height: 259px;
+margin-right: auto;
+}
+
+.content__section1-text {
+padding-left: 16px;
+padding-right: 16px;
+font-family: 'TT Lakes';
+}
+
+.content__section1-next {
+padding-left: 16px;
+}
+
+.header__section1-h1 {
+padding-left: 16px;
+padding-top: 24px;
+}
+
+.content {
+display: flex;
+}
+
+.header__section2-imgsettings {
+padding-right: 20px;
+width: 24px;
+}
+
+.header__section2-imgsearch{
+width: 24px;
+}

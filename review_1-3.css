@@ -1,0 +1,48 @@
+.body {
+width: 320px;
+font-family: 'TT Lakes';
+
+}
+
+.header__menu-logo {
+width: 60px;
+height: 24px;
+}
+
+.header__menu-menu, .header__menu-settings, .header__menu-search{
+width: 24px;
+}
+
+.header__menu {
+padding: 0 22px;
+margin-top: 30px;
+
+}
+	
+.menu__uslugi {
+width: 320px;
+display: flex;
+gap: 20px;
+padding-left: 16px;
+overflow: scroll;
+}
+
+.description-photo  {
+width: 320px;
+}
+
+.description-text {
+padding-left: 16px;
+padding-right: 16px;
+font-family: 'TT Lakes';
+}
+
+.description-next {
+padding-left: 16px;
+}
+
+.menu__h1 {
+width: 320px;
+padding-left: 16px;
+padding-top: 24px;
+}
